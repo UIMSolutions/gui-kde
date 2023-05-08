@@ -1,1 +1,1 @@
-# Package 📦 guis.myname
+# Package 📦 guis.kde
